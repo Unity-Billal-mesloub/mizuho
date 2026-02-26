@@ -8,9 +8,6 @@ Mizuho wraps [Asciidoc](http://www.methods.co.nz/asciidoc/), the text
 formatting tool used by e.g. Git and Phusion Passenger for its manuals.
 Mizuho adds the following functionality on top of Asciidoc:
 
- * A top bar that gives quick access to the table of contents.
- * Commenting via [Juvia](https://github.com/FooBarWidget/juvia).
-
 Mizuho bundles Asciidoc so you don't have to install it yourself. Mizuho
 should Just Work(tm) out-of-the-box. Asciidoc uses GNU source-highlight
 for highlighting source code. GNU source-highlight depends on Boost and
