@@ -4,8 +4,7 @@ Mizuho is a documentation formatting tool, best suited for small to
 medium-sized documentation. One writes documentation in plain text
 files, which Mizuho then converts to nicely formatted HTML.
 
-Mizuho wraps [Asciidoc](http://www.methods.co.nz/asciidoc/), the text
-formatting tool used by e.g. Git and Phusion Passenger for its manuals.
+ the text formatting tool used by e.g. Git and Phusion Passenger for its manuals.
 Mizuho adds the following functionality on top of Asciidoc:
 
 Mizuho bundles Asciidoc so you don't have to install it yourself. Mizuho
@@ -72,7 +71,7 @@ Our Ubuntu Lucid packages are compatible with Debian 6.
 
 ## Usage
 
-First, read [the Asciidoc manual](http://www.methods.co.nz/asciidoc/userguide.html)
+
 to learn the input file format:
 
 Next, write an input file and save it in a .txt file.
